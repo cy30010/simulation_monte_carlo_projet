@@ -6,7 +6,7 @@ Objectif :
 Ce projet présente une simulation Monte Carlo pour évaluer le risque financier d’un actif modélisé par un Mouvement Brownien Géométrique (GBM).  
 L'objectif est d'estimer la distribution des pertes et de calculer les mesures de risque Value at Risk (VaR) et Expected Shortfall (ES).
 
-
+-------------------------------------------------------------
 
 Contenu du projet
 
@@ -18,7 +18,7 @@ Contenu du projet
 	- Histogramme des pertes
 - Résultats présentés directement dans le notebook
 
-
+-------------------------------------------------------------
 
 Concepts Clés
 
@@ -27,6 +27,7 @@ Concepts Clés
 - VaR : Perte maximale non dépassée avec un niveau de confiance donné
 - ES : Perte moyenne dans les pires scénarios (au-delà de la VaR)
 
+-------------------------------------------------------------
 
 Structure du projet
 
@@ -36,6 +37,7 @@ Structure du projet
 	├─ histogramme_pertes.png  #Distribution des pertes
 ├ README.md
 
+-------------------------------------------------------------
 
 Outils et environnement
 
@@ -44,6 +46,7 @@ Outils et environnement
 - Matplotlib  
 - Jupyter Notebook  
 
+-------------------------------------------------------------
 
 Contenu du projet
 
@@ -54,7 +57,7 @@ Contenu du projet
 	- Trajectoires de prix simulées
 	- Histogramme des pertes avec seuil de VaR
 
-
+-------------------------------------------------------------
 
 Contact
 
